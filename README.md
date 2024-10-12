@@ -3,7 +3,7 @@ I am Shonima N Jacob passionate about turning data into actionable insights. Wit
 
 
  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" alt="tableau" width="40" height="40" colour="blue"/> </a><img src="https://github.com/user-attachments/assets/fbca71c2-6550-409c-a1e4-489054eb3019" target="_blank" alt="power bi" width="40" height="40"> <img src="https://github.com/user-attachments/assets/a52abd60-743b-4d09-93de-0ba2dc223b77" width="40" height="40">
-![tableau-certified-data-analyst 1 (2)](https://github.com/user-attachments/assets/f60744ef-6645-43dd-9f48-40231c372b76)
+<img src="https://github.com/user-attachments/assets/f60744ef-6645-43dd-9f48-40231c372b76" width="40" height="40">
 
 
 
